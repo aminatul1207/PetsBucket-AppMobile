@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PetS Bucket</string>
+    <string name="txtUser">Username</string>
+    <string name="txtPass">Password</string>
+    <string name="btnLogin">MASUK</string>
+    <string name="txtPesan">Tidak punya Akun ? Daftar</string>
+    <string name="txtAbout">Aboutus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav">PetS Bucket</string>
+    <string name="title_activity_about">about</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_produk">ProdukActivity</string>
+</resources>
